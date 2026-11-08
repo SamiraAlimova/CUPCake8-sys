@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CUPCake8-sys
-- 👀 I’m interested in chess 
+- 👋 Hi, I’m Samira Alimova
+- 👀 I’m interested in CS, Finance and Engineering!!! Like to combine them together <33
 - 🌱 I’m currently learning coding and python
   
 - 💞️ I’m looking to collaborate on CS
